@@ -1,6 +1,5 @@
 Form Validation
 
-This is a basic form for testing validation.
+This is a basic form for testing validation within a form.
 
-Created this form as a part of a course and I am going to push it to my GitHub account.
 # form-validation
