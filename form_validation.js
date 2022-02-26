@@ -5,6 +5,8 @@ function checkData() {
         event.preventDefault();
     });
 
+    // Welcome message
+    alert("Welcome!");
     const userName = document.getElementById("name");
     const emailId = document.getElementById("email");
     const zipCode = document.getElementById("zipcode");
